@@ -1,0 +1,5 @@
+Reverse Polish Notation (also "postfix notation") - mathematical notation wherein every operator follows all of its operands.
+
+for example;
+    infix notation: 3 + 4 * (6 - 2)
+    postfix notation: 3 4 6 2 - * +
